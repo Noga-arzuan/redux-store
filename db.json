@@ -1,0 +1,26 @@
+{
+  "product": [
+    {
+      "title": "Banana boom",
+      "description": "very sweet",
+      "price": "2",
+      "recipe": "banana split",
+      "ingredients": "",
+      "id": 1
+    },
+    {
+      "title": "english tea",
+      "description": "for drinking",
+      "price": "1",
+      "recipe": "tea",
+      "id": 2
+    },
+    {
+      "title": "shom  vebazal",
+      "description": "HH",
+      "price": "2",
+      "recipe": "",
+      "id": 3
+    }
+  ]
+}
